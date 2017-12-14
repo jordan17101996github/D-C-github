@@ -3,7 +3,7 @@
 ### This is the original font
 
 You see the presentation of my project here
-![](https://github.com/jordan17101996github/D-C-github/blob/master/Github_.pdf)
+https://github.com/jordan17101996github/D-C-github/blob/master/Github_.pdf
 
 This  | is | how
 --- | --- | ---
