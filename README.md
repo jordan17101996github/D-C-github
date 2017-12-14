@@ -5,9 +5,8 @@
 **This is the bont text**
 ***This is Italics***
 [![This is Brisbane](https://static.domain.com.au/domainblog/uploads/2017/08/03013000/2_gs7kik.jpg)
-(https://www.youtube.com/watch?v=MgOHjwL8cLQ"TUTORial")
 
 This  | is | how
 --- | --- | ---
-*you | `make a  | **table**
-1 | 2 | 3
+you | make | **table**
+
